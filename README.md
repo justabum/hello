@@ -1,0 +1,2 @@
+# hello
+test GO project
